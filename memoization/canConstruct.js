@@ -98,9 +98,4 @@ console.log(
 // n = wordBank.length
 
 // time = O(n * m^2)
-// space = O(m^2)///////////  Big O  //////////
-// m = target.length
-// n = wordBank.length
-
-// time = O(n^m *m)
 // space = O(m^2)
